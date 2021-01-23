@@ -10,9 +10,9 @@
   
       div div {
           
-          background-color: gray;
+          background-color: rgb(160, 158, 158);
       
-          border: solid 2px black;
+          border: solid 3px black;
           width: 95%;
           margin: 1%;
           margin-bottom: 30px;
@@ -27,7 +27,7 @@
       .h2{
           
           margin: 0px;
-          padding: 5px 30px 5px 30px;
+          padding: 5px 50px 5px 50px;
           border: solid 2px black;
           font-family:  Times, serif;
           font-weight: bold;
